@@ -1,4 +1,4 @@
-# HeartDiseasePrediction
+# Rating Prediction
 Steps To run the app locally 
 1. copy the clone of the repository
 2. Unzip it into a folder
