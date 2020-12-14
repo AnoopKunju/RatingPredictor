@@ -1,2 +1,5 @@
-# RatingPredictor
-Using natural language Processing and text classification the Machine learning predicts the rating for the review
+# HeartDiseasePrediction
+Steps To run the app locally 
+1. copy the directory as it is
+2. installl all dependency in requiremnet.txt 
+2. run app.py
