@@ -5,3 +5,10 @@ Steps To run the app locally
 3. using pip install the dependecies in requirement.txt
 4. open a terminal in the same path 
 5. run app.py
+
+
+# Applicaiton Demo Video:
+- :globe_with_meridians: link > [Youtube] (https://www.youtube.com/watch?v=yQJyGSp7OLc) 
+
+# Live Applicaiton
+- :computer: link > [Live Application] (https://ratingprediction-ml-nlp.herokuapp.com/)
