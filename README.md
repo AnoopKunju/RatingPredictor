@@ -1,4 +1,6 @@
-# Rating Prediction
+# Customer Review Rating Prediction
+*The predicition Model is trained with board games big data training set consisting of 15 million+ customer reviews*
+<br><br>
 Steps To run the app locally 
 1. copy the clone of the repository
 2. Unzip it into a folder
@@ -7,8 +9,11 @@ Steps To run the app locally
 5. run app.py
 
 
-# Applicaiton Demo Video:
-- :globe_with_meridians: link > [Youtube] (https://www.youtube.com/watch?v=yQJyGSp7OLc) 
+## Applicaiton Demo Video:
+- :globe_with_meridians: link > [Youtube](https://www.youtube.com/watch?v=yQJyGSp7OLc) 
 
-# Live Applicaiton
-- :computer: link > [Live Application] (https://ratingprediction-ml-nlp.herokuapp.com/)
+## Live Applicaiton
+- :computer: link > [Live Application](https://ratingprediction-ml-nlp.herokuapp.com/)
+
+## Detailed Project Report
+- :chart_with_upwards_trend: link > [Report](http://www.anoopscariah.me/nlp-project-report/)
